@@ -153,7 +153,7 @@ I'm always interested in:
 [<img src="https://img.shields.io/badge/email-raghavgupta1433r%40gmail.com-red?style=for-the-badge&logo=gmail" />](mailto:raghavgupta1433r@gmail.com)
 [<img src="https://img.shields.io/badge/github-RaghavGupta0340-000?style=for-the-badge&logo=github" />](https://github.com/RaghavGupta0340)
 
-[<img src="https://img.shields.io/badge/linkedin-raghav--gupta-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/)
+[<img src="https://img.shields.io/badge/linkedin-raghav--gupta-blue?style=for-the-badge&logo=linkedin" />]([https://www.linkedin.com/](https://www.linkedin.com/in/raghav-gupta-4382a8323/))
 
 </div>
 
