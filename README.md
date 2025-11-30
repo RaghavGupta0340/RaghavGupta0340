@@ -134,9 +134,9 @@ raghav = {
 
 ## Let's Collaborate!
 
-<div align="center">
+<!--<div align="center">
   <img src="https://media.giphy.com/media/LnQjW7rxY23mg7FVBB/giphy.gif" width="300" alt="Collaboration" />
-</div>
+</div> -->
 
 I'm always interested in:
 - Lightbulb Innovative project ideas
