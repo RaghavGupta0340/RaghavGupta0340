@@ -14,10 +14,7 @@
   <a href="https://github.com/RaghavGupta0340">
     <img src="https://img.shields.io/badge/GitHub-RaghavGupta0340-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.youtube.com/@RaghavGupta">
-    <img src="https://img.shields.io/badge/YouTube-Raghav%20Gupta-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</div>
+  div>
 
 <br/>
 
