@@ -14,7 +14,7 @@
   <a href="https://github.com/RaghavGupta0340">
     <img src="https://img.shields.io/badge/GitHub-RaghavGupta0340-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  div>
+  
 
 <br/>
 
@@ -27,7 +27,7 @@ raghav = {
     "role": "Full Stack Developer & DevOps Engineer",
     "location": "India 🇮🇳",
     "email": "raghavgupta1433r@gmail.com",
-    "education": "GCET Jammu",
+    "education": "LPU Jalandhar",
     "passion": ["Coding", "DevOps", "Cloud Architecture", "Problem Solving"],
     "learning": ["Advanced Kubernetes", "Microservices", "System Design"]
 }
